@@ -6,6 +6,7 @@ public class VirtualPetApplication {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
+
         VirtualPet myVirtualPet = new VirtualPet("Oscar", 10, 10, 10, 10);
 
         System.out.println("Hello my friend!");
